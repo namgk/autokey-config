@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ctrlkeys=("a" "b" "c" "d" "f" "h" "n" "p" "q" "r" "s" "t" "v" "x" "z")
+ctrlkeys=("a" "b" "c" "d" "f" "h" "n" "p" "q" "r" "s" "t" "v" "x" "z" "w")
 
 for key in "${ctrlkeys[@]}"
 do
